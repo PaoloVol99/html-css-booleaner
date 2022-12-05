@@ -56,5 +56,24 @@
     list-style-position: inside;
 }
 
+table {
+    margin-top: 20px;
+}
+
+.dark-blue-row {
+    background-color: rgb(31, 152, 233);
+    color: white;
+}
+
+.light-blue-row {
+    background-color: rgb(163, 224, 238);
+}
+
+.highlighted {
+    background-color: yellow;
+}
+
+
+
 
 
