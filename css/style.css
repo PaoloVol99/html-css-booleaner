@@ -73,6 +73,18 @@ table {
     background-color: yellow;
 }
 
+.recommended {
+    margin-top: 30px;
+    color: #616161;
+    margin-left: 5px;
+}
+
+.recommended-images {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 
 
 
