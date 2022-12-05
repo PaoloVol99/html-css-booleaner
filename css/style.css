@@ -15,5 +15,46 @@
     padding-top: 30px;
     padding-left: 10px;
     padding-bottom: 5px;
-    width: 300px;
+    width: 200px;
 }
+
+.article {
+    margin-left: 5px;
+}
+
+.title {
+    margin-top: 20px;
+}
+
+.subtitle {
+    color: #909090;
+}
+
+.date {
+    font-size: 12px;
+}
+
+.author {
+    color: rgb(43, 156, 255);
+}
+
+.images {
+    margin-top: 20px;
+}
+
+.captions {
+    font-size: 12px;
+}
+
+.paragraph {
+    margin-top: 20px;
+}
+
+.list {
+    margin-top: 20px;
+    padding: 0;
+    list-style-position: inside;
+}
+
+
+
